@@ -1,0 +1,18 @@
+h1 {
+	font-family: Verdana, Helvetica, sans-serrif;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.tekst {
+	font-family: Verdana, Helvetica, sans-serrif;
+	font-size: 12px;
+}
+
+.posebno {
+	font-style: italic;
+	border: 1px solid #000;
+	margin: 6px;
+	font-weight: bold;
+	background-color: #FFFFCC;
+}
